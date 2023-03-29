@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning web development.
-- 🤔 I’m looking for help to improve as a professional.
+- 🤔 I'm looking for help to improve as a fullstack developer.
 <!--
 **MarcoLeandroA/MarcoLeandroA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
