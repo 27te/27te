@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm 27te</h1>
 <h3 align="center">A passionate frontend developer from Perú</h3>
 
-- 🔭 I’m currently working on [mblcdev](mblcdev.com)
+- 🔭 I’m currently working on [mblcdev](https://mblcdev.com)
 
 - 🌱 I’m currently learning **Python, Rust**
 
-- 👯 I’m looking to collaborate on [mblcdev](mblcdev.com)
+- 👯 I’m looking to collaborate on [mblcdev](https://mblcdev.com)
 
 - 💬 Ask me about **react and javascript**
 
