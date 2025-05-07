@@ -1,29 +1,29 @@
 <h1 align="center">Hi 👋, I'm 27te</h1>
-<h3 align="center">A .......</h3>
 
-- 🔭 I’m currently working on [mblcdev](https://mblcdev.com)
 
-- 🌱 I’m currently learning **Python, Rust**
+- Don't speak
 
-- 👯 I’m looking to collaborate on [mblcdev](https://mblcdev.com)
+- Don't laugh
 
-- 💬 Ask me about **react and javascript**
+- Don't cry
 
-- 📫 How to reach me **antonio@mblcdev.com**
+- Don't look
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=27te)](https://github.com/27te)
+- Don't run
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mblcdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mblcdev" height="30" width="40" /></a>
-</p>
+- Don't hide
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,express,js,linux,mysql,nodejs,php,postgres,react,supabase,tailwind,ts,vite,vscode,powershell,bash,git,neovim&perline=6" />
-  </a>
-</p>
+- Don't dream
+
+- Don't imagine
+
+- Don't think
+
+- Don't hate
+
+- Don't love
+  
+- Don't envy
 
 
 <h3 align="left">Support:</h3>
@@ -31,3 +31,4 @@
 
 
 
+<sm>***5 - **27</sm>
