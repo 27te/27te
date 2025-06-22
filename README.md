@@ -23,5 +23,5 @@
 💗 사랑하지 마.
 
 🙃 부러워하지 마.
-<h3 align="left">Support:</h3>
+<h3 align="left">For my new eyes:</h3>
 <p><a href="https://ko-fi.com/mblcdev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mblcdev" /></a></p><br><br>
