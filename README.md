@@ -1,4 +1,4 @@
-<h1 align="center">🦀Hi 👋, I'm 27TE by Antonio🦀</h1>
+<h1 align="center">🦀Hi 👋, I'm 27TE by Antonio.🦀</h1>
 
 🗣️ 말하지 마.
 
