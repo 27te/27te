@@ -1,5 +1,5 @@
-<h1 align="center">🦀Hi 👋, I'm 27TE by Antonio.🦀</h1>
-# 🔥 **EL ARCHITECTO DEL CÓDIGO** 🔥
+# 🦀🔥 **EL ARCHITECTO DEL CÓDIGO** 🔥🦀
+
 ### *Where Silicon Valley Comes to Learn*
 
 ```
