@@ -4,7 +4,7 @@
 
 **Backend engineer.** I build production SaaS in TypeScript: Fastify APIs, PostgreSQL/Prisma data layers, containerized deploys and CI. Most of my work is in electronic invoicing and document automation for the Peruvian market (SUNAT).
 
-Currently building [Clainev](https://clainev.com), a small product studio.
+Founder of [Clainev](https://clainev.com) — a software studio running two tracks: our own SaaS products, and custom software built for clients.
 
 ### What I work with
 
@@ -49,7 +49,7 @@ I care about the parts that show up six months later: typed boundaries, tests th
 
 **Ingeniero backend.** Construyo SaaS en producción con TypeScript: APIs en Fastify, capa de datos con PostgreSQL/Prisma, despliegues en contenedores y CI. La mayor parte de mi trabajo está en facturación electrónica y automatización documental para el mercado peruano (SUNAT).
 
-Actualmente construyendo [Clainev](https://clainev.com), un estudio de producto.
+Fundador de [Clainev](https://clainev.com) — un estudio de software con dos líneas: nuestros propios productos SaaS y desarrollo a medida para clientes.
 
 ### Con qué trabajo
 
