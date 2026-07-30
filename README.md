@@ -1,4 +1,4 @@
-# Antonio — `@27te`
+# Antonio — `@dalsori`
 
 <sub>🇬🇧 English · 🇪🇸 Versión en español al final</sub>
 
@@ -25,13 +25,13 @@ Next.js app over a Fastify API with a provider-agnostic AI layer: one interface,
 
 ### Open source
 
-**[backend-devops](https://github.com/27te/backend-devops)** — Backend & DevOps handbook
+**[backend-devops](https://github.com/dalsori/backend-devops)** — Backend & DevOps handbook
 Long-form technical documentation I wrote on API design, security, caching, queues, observability and testing. Astro Starlight, deployed via Actions.
 
-**[27nvim](https://github.com/27te/27nvim)** — Neovim configuration
+**[27nvim](https://github.com/dalsori/27nvim)** — Neovim configuration
 A modular, fast Neovim setup for full-stack and systems work. Native on Windows and Linux, tested in CI against stable and nightly.
 
-**[clainev](https://github.com/27te/clainev)** — Bilingual content platform
+**[clainev](https://github.com/dalsori/clainev)** — Bilingual content platform
 The site behind clainev.com. Astro 5, parallel per-locale content trees, zero client JS by default.
 
 ### How I approach things
@@ -70,13 +70,13 @@ App Next.js sobre una API Fastify con una capa de IA agnóstica del proveedor: u
 
 ### Código abierto
 
-**[backend-devops](https://github.com/27te/backend-devops)** — Manual de Backend y DevOps
+**[backend-devops](https://github.com/dalsori/backend-devops)** — Manual de Backend y DevOps
 Documentación técnica extensa que escribí sobre diseño de APIs, seguridad, caché, colas, observabilidad y testing. Astro Starlight, desplegado con Actions.
 
-**[27nvim](https://github.com/27te/27nvim)** — Configuración de Neovim
+**[27nvim](https://github.com/dalsori/27nvim)** — Configuración de Neovim
 Un setup de Neovim modular y rápido para desarrollo full-stack y de sistemas. Nativo en Windows y Linux, verificado en CI contra stable y nightly.
 
-**[clainev](https://github.com/27te/clainev)** — Plataforma de contenido bilingüe
+**[clainev](https://github.com/dalsori/clainev)** — Plataforma de contenido bilingüe
 El sitio detrás de clainev.com. Astro 5, árboles de contenido paralelos por idioma, cero JavaScript en cliente por defecto.
 
 ### Cómo trabajo
